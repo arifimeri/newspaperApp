@@ -17,6 +17,6 @@ import TheLayoutView from "@/components/ui/TheLayoutView.vue";
   <the-footer/>
 </template>
 
-<style scoped>
+<style>
 
 </style>

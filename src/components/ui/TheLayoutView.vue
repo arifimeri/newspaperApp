@@ -102,7 +102,7 @@ import postImage8 from '@/assets/img/post-landscape-8.jpg';
                     <h2><a href="blog-details.html">Let’s Get Back to Work, New York</a></h2>
                   </div>
                   <div class="post-entry">
-                    <a href="blog-details.html"><img :src="postImage5" alt="" class="img-fluid" /> class="img-fluid"></a>
+                    <a href="blog-details.html"><img :src="postImage5" alt="" class="img-fluid" />></a>
                     <div class="post-meta"><span class="date">Food</span> <span class="mx-1">•</span> <span>Jul 17th '22</span></div>
                     <h2><a href="blog-details.html">How to Avoid Distraction and Stay Focused During Video Calls?</a></h2>
                   </div>
@@ -114,7 +114,7 @@ import postImage8 from '@/assets/img/post-landscape-8.jpg';
                 </div>
                 <div class="col-lg-4 border-start custom-border">
                   <div class="post-entry">
-                    <a href="blog-details.html"><img :src="postImage3" alt="" class="img-fluid" /> class="img-fluid"></a>
+                    <a href="blog-details.html"><img :src="postImage3" alt="" class="img-fluid" /></a>
                     <div class="post-meta"><span class="date">Business</span> <span class="mx-1">•</span> <span>Jul 5th '22</span></div>
                     <h2><a href="blog-details.html">6 Easy Steps To Create Your Own Cute Merch For Instagram</a></h2>
                   </div>
@@ -221,7 +221,7 @@ import postImage8 from '@/assets/img/post-landscape-8.jpg';
             <div class="row">
               <div class="col-lg-4">
                 <div class="post-list border-bottom">
-                  <a href="blog-details.html">  <img :src="postImage1" alt="" class="img-fluid" /></a>
+                  <a href="blog-details.html"><img :src="postImage1" alt="" class="img-fluid" /></a>
                   <div class="post-meta"><span class="date">Culture</span> <span class="mx-1">•</span> <span>Jul 5th '22</span></div>
                   <h2 class="mb-2"><a href="blog-details.html">11 Work From Home Part-Time Jobs You Can Do Now</a></h2>
                   <span class="author mb-3 d-block">Jenny Wilson</span>
@@ -517,10 +517,10 @@ import postImage8 from '@/assets/img/post-landscape-8.jpg';
 
       </div>
 
-    </section><!-- /Lifestyle Category Section -->
+    </section>
 
   </main>
 </template>
-<style scoped>
+<style>
 
 </style>

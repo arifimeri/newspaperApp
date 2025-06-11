@@ -43,6 +43,6 @@ import HomeView from "@/views/HomeView.vue";
   </header>
 </template>
 
-<style scoped>
+<style>
 
 </style>
