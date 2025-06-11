@@ -32,7 +32,7 @@ const routes = [
         path: '/about-us',
         name: 'about',
         component: AboutView,
-        meta: {requiresAuth: true,}
+        meta: {requiresAuth: false}
     },
     {
         path: '/single-post',
@@ -45,7 +45,13 @@ const routes = [
         name: 'contact',
         component: ContactView,
         meta: { requiresAuth: false },
-    }
+    },
+    {
+        path: '/categories',
+        name: 'categories',
+        component: ContactView,
+        meta: { requiresAuth: false },
+    },
 ]
 
 const router = createRouter({

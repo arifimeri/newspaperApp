@@ -27,36 +27,6 @@ import postImage8 from '@/assets/img/post-landscape-8.jpg';
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="swiper init-swiper">
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide" :style="{ backgroundImage: `url(${bgImage})` }">
-              <div class="content">
-                <h2><a href="single-post.html">The Best Homemade Masks for Face (keep the Pimples Away)</a></h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem neque est mollitia! Beatae minima assumenda repellat harum vero, officiis ipsam magnam obcaecati cumque maxime inventore repudiandae quidem necessitatibus rem atque.</p>
-              </div>
-            </div>
-
-            <div class="swiper-slide" :style="{ backgroundImage: `url(${slideImage2})` }">
-              <div class="content">
-                <h2><a href="single-post.html">17 Pictures of Medium Length Hair in Layers That Will Inspire Your New Haircut</a></h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem neque est mollitia! Beatae minima assumenda repellat harum vero, officiis ipsam magnam obcaecati cumque maxime inventore repudiandae quidem necessitatibus rem atque.</p>
-              </div>
-            </div>
-
-            <div class="swiper-slide" :style="{ backgroundImage: `url(${slideImage3})` }">
-              <div class="content">
-                <h2><a href="single-post.html">13 Amazing Poems from Shel Silverstein with Valuable Life Lessons</a></h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem neque est mollitia! Beatae minima assumenda repellat harum vero, officiis ipsam magnam obcaecati cumque maxime inventore repudiandae quidem necessitatibus rem atque.</p>
-              </div>
-            </div>
-
-            <div class="swiper-slide" :style="{ backgroundImage: `url(${slideImage4})` }">
-              <div class="content">
-                <h2><a href="single-post.html">9 Half-up/half-down Hairstyles for Long and Medium Hair</a></h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem neque est mollitia! Beatae minima assumenda repellat harum vero, officiis ipsam magnam obcaecati cumque maxime inventore repudiandae quidem necessitatibus rem atque.</p>
-              </div>
-            </div>
-          </div>
 
           <div class="swiper-button-next"></div>
           <div class="swiper-button-prev"></div>
